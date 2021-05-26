@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
+	<loc>://mine.local/catalog/men</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-06-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/women</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-06-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/men/shoes</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-20</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/women/shoes</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-20</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/men/clothing</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-06-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/women/clothing</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-06-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/men/accessories</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-20</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/women/accessories</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-20</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/men/last-call</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-06-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/women/last-call</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-06-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/about</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/extra</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/contact</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/terms</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/privacy-policy</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/sitemap</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/women</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/men</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/catalog/filter(filter=last_call)</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/sell</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/faq</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/shipping-and-returns</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/extra</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/sell</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/sell</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/sell-process</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/standards</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/brands</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>://mine.local/MINE-COMMUNITY</loc>
+	<changefreq>monthly</changefreq>
+	<lastmod>2017-05-13</lastmod>
+	<priority>0.5</priority>
+</url>
+</urlset>
